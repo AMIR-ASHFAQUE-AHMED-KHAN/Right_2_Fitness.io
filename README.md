@@ -1,1 +1,1 @@
-# Right_2_Fitness.io
+Right 2 Fitness dynamic website with search filter , price sorting , reserve form with validation , dynamic pop-up with video , All products are dynamically in javascript file for adding product just need to add 4 lines in js file not to do hard coding in html.
